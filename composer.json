@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "symfony/framework-bundle": "~2.7|~3.0",
+        "symfony/framework-bundle": "^4.2.8",
         "symfony/console": "~2.7|~3.0",
         "symfony/process": "~2.7|~3.0",
         "symfony/yaml": "~2.7|~3.0"
