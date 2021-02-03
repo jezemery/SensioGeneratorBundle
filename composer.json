@@ -13,7 +13,7 @@
     "require": {
         "symfony/framework-bundle": "~2.7|~3.0",
         "symfony/console": "~2.7|~3.0",
-        "symfony/process": "~2.7|~3.0",
+        "symfony/process": "^5.2.3",
         "symfony/yaml": "~2.7|~3.0"
     },
     "require-dev": {
